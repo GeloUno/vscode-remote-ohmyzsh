@@ -1,6 +1,6 @@
 FROM debian:9.9
 
-LABEL maintainer="alitari67@gmail.com"
+LABEL maintainer="example@gmail.com"
 
 # Configure apt
 ENV DEBIAN_FRONTEND=noninteractive
